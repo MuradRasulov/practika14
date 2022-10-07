@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practika14_rasulov</string>
+    <string name="Button">Добавить запрос</string>
+    <string name="Hello">Привет!</string>
+    <string name="Click_button_and_get_request">Нажмите на кнопку чтобы перейти на экран, где у вас будет возможность получить запрос</string>
+    <string name="Add_request">Добавить запрос</string>
+    <string name="Back">Назад</string>
+    <string name="Next">Далее</string>
+</resources>
